@@ -24,7 +24,7 @@ int main() {
     for(int k = *p1 + 1; k < *p2; k++) {
         *p3 += k;
     }
-    
+
     cout << "Sum: " << *p3 << endl;
     
     return 0;

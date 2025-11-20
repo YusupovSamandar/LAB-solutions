@@ -1,0 +1,9 @@
+.vscode/
+.DS_Store
+*.o
+*.out
+*.exe
+*.dSYM/
+main
+prob*
+!prob*.cpp
